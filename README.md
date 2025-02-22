@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsousaoliveira&hide=jupyter%20notebook" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsousaoliveira&hide=jupyter%20notebook,html,css" />
 </p>
 
 <p align="center">
