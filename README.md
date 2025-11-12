@@ -18,7 +18,7 @@ Currently working for Cyberr!
 </p>
 
 <p align="center">
-<img src="images/image1.gif">
+<img width="50" src="images/image1.gif">
 </p>
 
 <p align="center">
