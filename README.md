@@ -13,6 +13,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=danielsousaoliveira&rank_icon=github" />
 </p>
 
+<p align="center">
+Currently working for Cyberr!
+</p>
+
+<p align="center">
+<img src="images/image1.gif">
+</p>
+
+<p align="center">
+<img src="https://github-contributions-api.deno.dev/danieloliveira07.svg?scheme=purple&font-color=006fee" />
+</p>
+
 <h5 align="center">Skills</h5>
 
 <p align="center">
