@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsousaoliveira&hide=jupyter%20notebook,html,css" />
+<img src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=danielsousaoliveira&rank_icon=github" />
+<img src="./profile/stats.svg" />
 </p>
 
 <p align="center">
