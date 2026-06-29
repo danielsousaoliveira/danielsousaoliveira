@@ -6,23 +6,11 @@
 </p>
 
 <p align="center">
-<img src="./profile/top-langs.svg" />
+<img src=https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danielsousaoliveira&layout=compact&theme=dark&hide=jupyter%20notebook,html,css />
 </p>
 
 <p align="center">
-<img src="./profile/stats.svg" />
-</p>
-
-<p align="center">
-Currently working for Cyberr!
-</p>
-
-<p align="center">
-<img width="50" src="images/image1.gif">
-</p>
-
-<p align="center">
-<img src="https://github-contributions-api.deno.dev/danieloliveira07.svg?scheme=purple&font-color=006fee" />
+<img src=https://github-readme-stats-fast.vercel.app/api?username=danielsousaoliveira&show_icons=true&theme=dark />
 </p>
 
 <h5 align="center">Skills</h5>
@@ -30,7 +18,6 @@ Currently working for Cyberr!
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,py,c,cpp,ts,solidity&theme=dark" title="Javascript | Python | C/C++ | Typescript | Solidity"/>
 </p>
-
 
 <h5 align="center">Frameworks</h5>
 
@@ -43,4 +30,3 @@ Currently working for Cyberr!
 <p align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" title="Tensorflow | Pytorch | scikit-learn | OpenCV"/>
 </p>
-
